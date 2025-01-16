@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header {
+    background: linear-gradient(to right, #007bff, #0056b3);
+}
+header h1 {
+    font-size: 3rem;
+}
+.card {
+    border: none;
+}
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+footer {
+    background: #222;
+    color: #ccc;
+}
